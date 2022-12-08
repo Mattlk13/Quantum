@@ -27,7 +27,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Quantum.Chemistry" Version="0.10.2001.2831" />
     <PackageReference Include="Microsoft.Quantum.Development.Kit" Version="0.10.2001.2831" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>
